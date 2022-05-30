@@ -1,0 +1,12 @@
+position property has 5 type of values.
+1.static
+2.relative
+3.fixed
+4.absolute
+5.sticky
+
+fixed absulate sticky margin viport er upor nirvor kore margin count korbe.mane body er upor  margin count korbe.
+
+relative ter nijer position theke margin count korbe.
+
+
