@@ -9,4 +9,7 @@ fixed absulate sticky margin viport er upor nirvor kore margin count korbe.mane 
 
 relative ter nijer position theke margin count korbe.
 
+position a khokhono margin use korte hoi na.
+
+position er top bottom left right use korte hoi.
 
